@@ -6,7 +6,7 @@ This repository contains simple portfolio for showing my data science and machin
 
 * __customer_segmentation__ - contains Jupyter notebook showing customer segmentation for an imaginary eshop
 * __nlp__ - contains Jupyter notebook showing simple Fasttext model trained on custom created corpus
-* __simple_classifier__ - obsahuje 3 předučené modely neuronových sítí, jsou to Architektura 3 a 4 a klasifikátor pro posuvné okénko, tyto architektury byly naučeny pro rozpoznávání 1 dronu v obraze
+* __simple_classifier__ - contains Jupyter notebook showing basic exploratory data analysis and classification on Carvana's dataset
 
 ### Requirements
 * Python 3
