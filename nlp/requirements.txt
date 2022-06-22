@@ -1,7 +1,7 @@
 bs4==0.0.1
 fasttext==0.9.1
 gensim==3.8.2
-numpy==1.18.4
+numpy==1.22.0
 pandas==1.0.1
 seaborn==0.9.0
 spacy==2.2.4
